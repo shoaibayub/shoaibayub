@@ -1,6 +1,7 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Shoaib Ayub</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
-
+<h3 align="center">A passionate Computer Scientist from Pakistan</h3>
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/coxQHKASG60HrHtvkt">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shoaibayub&label=Profile%20views&color=0e75b6&style=flat" alt="shoaibayub" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shoaibayub" alt="shoaibayub" /></a> </p>
