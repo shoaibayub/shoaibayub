@@ -67,14 +67,14 @@
 </tr></table>
 
 ## Connect with me:
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@shoaibhashmicr7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@shoaibhashmicr7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/shoaibayub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shoaibayub" height="30" width="40" /></a>
-<a href="https://fb.com/shoaib ayub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shoaib ayub" height="30" width="40" /></a>
-<a href="https://instagram.com/shoaibayub.0311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shoaibayub.0311" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shoaibayub0320" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shoaibayub0320" height="30" width="40" /></a>
-</p>
+<div align="center">
+    <a href="https://twitter.com/@shoaibhashmicr7" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
+    <a href="https://linkedin.com/in/www.linkedin.com/in/shoaibayub" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+    <a href="https://fb.com/shoaib ayub" target="_blank"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+    <a href="https://instagram.com/shoaibayub.0311" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+    <a href="https://www.leetcode.com/shoaibayub0320" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FAAB00?style=flat&logo=LeetCode&logoColor=white"/></a>
+</div>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
