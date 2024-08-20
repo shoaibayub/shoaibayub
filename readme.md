@@ -36,6 +36,37 @@
 
 - 📫 How to reach me **www.linkedin.com/in/shoaibayub**
 
+## Skill Set:
+
+<table><tr><td valign="top" width="25%">
+
+### Frontend  
+<a href="https://github.com/shoaibayub">
+<div align="center">  
+       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js&perline=4" /> 
+</div>
+</a>
+ </td><td valign="top" width="25%">
+        
+### Languages
+<a href="https://github.com/shoaibayub">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=c,js,cpp,java,python,&perline=4" /> 
+</div>
+</a>
+
+</td><td valign="top" width="25%">
+  
+### Others
+<a href="https://github.com/shoaibayub">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=git,github,npm,figma,vscode,vercel,discord,vscodeqt&perline=4" /> 
+</div>
+</a>
+</td>
+</tr></table>
+
+## Connect with me:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@shoaibhashmicr7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@shoaibhashmicr7" height="30" width="40" /></a>
@@ -101,3 +132,4 @@
 </a>
 
 ![Shoaib Ayub Graph](https://github-readme-activity-graph.vercel.app/graph?username=shoaibayub&custom_title=Shoaib%20Ayub's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
