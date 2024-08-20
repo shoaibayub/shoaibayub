@@ -51,7 +51,7 @@
 ### Languages
 <a href="https://github.com/shoaibayub">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=c,js,cpp,java,python,&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=js,cpp,python,flask,django,pytorch,.net,pandas&perline=4" /> 
 </div>
 </a>
 
@@ -60,7 +60,7 @@
 ### Others
 <a href="https://github.com/shoaibayub">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=git,github,npm,figma,vscode,vercel,discord,vscodeqt&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=git,github,npm,figma,vscode,vercel,docker&perline=4" /> 
 </div>
 </a>
 </td>
