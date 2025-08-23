@@ -43,6 +43,8 @@
 <div align="center"> 
     <a href="https://linkedin.com/in/www.linkedin.com/in/shoaibayub" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
     <a href="https://www.leetcode.com/shoaibayub0320" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FAAB00?style=flat&logo=LeetCode&logoColor=white"/></a>
+    <a href="https://x.com/SHOAIBHASHMIcr7?t=Bjme6eBq0AV4ZwMXV2VJfw&s=09" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FAAB00?style=flat&logo=LeetCode&logoColor=white"/></a>
+       
 </div>
 
 
