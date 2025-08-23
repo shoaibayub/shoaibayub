@@ -45,15 +45,14 @@
 </div>
 </a>
 
+ </td><td valign="top" width="25%">
+       
 ### Frontend  
 <a href="https://github.com/shoaibayub">
 <div align="center">  
        <img src="https://skillicons.dev/icons?i=flask,django,fastapi,pytorch&perline=4" /> 
 </div>
 </a>
- </td><td valign="top" width="25%">
-        
-
 
 </td><td valign="top" width="25%">
   
