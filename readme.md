@@ -22,7 +22,6 @@
 ```
 <h1 align="center">Hi 👋, I'm Shoaib Ayub</h1>
 <h3 align="center">A passionate Computer Scientist from Pakistan</h3>
-<img align="center" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWpzd3BkNTB6bWFjeTkxMHYxZ2plcnc4bXNra2xxNHd2dWVvamx5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shoaibayub&label=Profile%20views&color=0e75b6&style=flat" alt="shoaibayub" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shoaibayub" alt="shoaibayub" /></a> </p>
@@ -39,20 +38,22 @@
 
 <table><tr><td valign="top" width="25%">
 
+### Languages
+<a href="https://github.com/shoaibayub">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=cpp,js,python,C#&perline=4" /> 
+</div>
+</a>
+
 ### Frontend  
 <a href="https://github.com/shoaibayub">
 <div align="center">  
-       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=flask,django,fastapi,pytorch&perline=4" /> 
 </div>
 </a>
  </td><td valign="top" width="25%">
         
-### Languages
-<a href="https://github.com/shoaibayub">
-<div align="center">
-       <img src="https://skillicons.dev/icons?i=js,cpp,python,flask,django,pytorch,.net,pandas&perline=4" /> 
-</div>
-</a>
+
 
 </td><td valign="top" width="25%">
   
