@@ -54,12 +54,14 @@
 </div>
 </a>
 
-</td><td valign="top" width="25%">
+</td>
+
+<td valign="top" width="25%">
   
 ### Others
 <a href="https://github.com/shoaibayub">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=git,github,npm,figma,vscode,vercel,docker&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,vercel,docker,cursor,n8n&perline=4" /> 
 </div>
 </a>
 </td>
