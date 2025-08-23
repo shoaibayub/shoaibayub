@@ -41,7 +41,7 @@
 
  </td><td valign="top" width="25%">
        
-### Frontend  
+### Frameworks  
 <a href="https://github.com/shoaibayub">
 <div align="center">  
        <img src="https://skillicons.dev/icons?i=flask,django,fastapi,pytorch&perline=4" /> 
