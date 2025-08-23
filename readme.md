@@ -1,25 +1,3 @@
-```
-████████████████████████████████████████████████████████████  ██╗  ██╗███████╗██╗     ██╗      ██████╗
-████████████████████████████████████████████████████████████  ██║  ██║██╔════╝██║     ██║     ██╔═══██╗
-███████████████████████████████████`.        ╙██████████████  ███████║█████╗  ██║     ██║     ██║   ██║
-████████████████████████████████▀  ¿▓▓▓▓▓▓▓▓▄/ "████████████  ██╔══██║██╔══╝  ██║     ██║     ██║   ██║
-██████████████████████████████▀.  ▓▓▓▓▓▓▓▓▓▓▓▓   ▐██████████  ██║  ██║███████╗███████╗███████╗╚██████╔╝▄█╗
-██████████████████████████████ `  ▓▓▓▓▓▓▓▓▓▓▓▓  ` ██████████  ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝ ╚═╝
-██████████████████████████████ `  ▓▓▓▓▓▓▓▓▓▓▓▓   ▄██████████
-▀██████████████████████████████▌  ▀▀▓▓▓▓▓▓▓▌╓╖. ████████████  ███╗   ██╗██╗ ██████╗███████╗  ████████╗ ██████╗
-█▄▀██████████████████████████████▄ ╩╦╙▀▀▀▀▀ ╣`,█████████████  ████╗  ██║██║██╔════╝██╔════╝  ╚══██╔══╝██╔═══██╗
-▄▀█▄╙█████████████████████▀▀▀▀█████▄▄ .... ,▄███████▀███████  ██╔██╗ ██║██║██║     █████╗       ██║   ██║   ██║
-██▄▀█▄╙█████████████████▀  ╪╢%╦══~╓,└ ╚▒▒▒ ╙▀|,╓╓═╤H   ▀████  ██║╚██╗██║██║██║     ██╔══╝       ██║   ██║   ██║
-█▀▀▀-▀█▌▄▀█████████████   ║▒▒▒▒▒▒▒▒▒▒╢╦ ╘ -╣▒▒▒▒▒▒▒▒▒╢╕   ▀█  ██║ ╚████║██║╚██████╗███████╗     ██║   ╚██████╔╝
-██▄▀██└║▄▄▄████████████▄          ═╕╕╕╕╕═╕═══════       ▄▄▄▄  ╚═╝  ╚═══╝╚═╝ ╚═════╝╚══════╝     ╚═╝    ╚═════╝
-████▄▀█▌║███  ████████▌         ╕   ╩▒▒▒▒▒▒▒▒▒Ñ          ███
-██████▌Ö▓▌   ▀██████████`╔▒▒╣ █ ▒▒m   ╚▒╢▒▒▒╩ -╣▒ ▌ ▒▒▒ ████  ███╗   ███╗███████╗███████╗████████╗  ██╗   ██╗ ██████╗ ██╗   ██╗
-████ -"" ∞╙,▀.╙▀███████╜ ▒▒▒ ▄█ Ñ   -   S.  ═▒▒▒▒ █ ║▒▒╕└███  ████╗ ████║██╔════╝██╔════╝╚══██╔══╝  ╚██╗ ██╔╝██╔═══██╗██║   ██║
-████████▄ -«   ∞▄.▀",╓═     ╒██   ═╣▒▒ `Ñ╛        █▌ ▒▒▒ ███  ██╔████╔██║█████╗  █████╗     ██║      ╚████╔╝ ██║   ██║██║   ██║
-█████████▌ º     ╤╣▒╣╩^",▄▄███▀  ▒▒╣"     ''''''' ▀▀     `██  ██║╚██╔╝██║██╔══╝  ██╔══╝     ██║       ╚██╔╝  ██║   ██║██║   ██║
-█████████  ▌       ▄▄████████─         ---------    L'▒▒▒ ██  ██║ ╚═╝ ██║███████╗███████╗   ██║        ██║   ╚██████╔╝╚██████╔╝
-▀▀▀▀▀▀▀▀▀▀▀▀▀-     ▀▀▀▀▀▀▀▀▀▀       '╧╧╧╧╧╧╧╧╧`     ╚ ╧╧╧- ▀  ╚═╝     ╚═╝╚══════╝╚══════╝   ╚═╝        ╚═╝    ╚═════╝  ╚═════╝
-```
 <h1 align="center">Hi 👋, I'm Shoaib Ayub</h1>
 <h3 align="center">A passionate Computer Scientist from Pakistan</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shoaibayub&label=Profile%20views&color=0e75b6&style=flat" alt="shoaibayub" /> </p>
@@ -52,21 +30,18 @@
 
 <td valign="top" width="25%">
   
-### Others
+### Tools
 <a href="https://github.com/shoaibayub">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,vercel,docker,cursor,n8n&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,vercel,docker,cursor,linux,mongodb&perline=4" /> 
 </div>
 </a>
 </td>
 </tr></table>
 
 ## Connect with me:
-<div align="center">
-    <a href="https://twitter.com/@shoaibhashmicr7" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
+<div align="center"> 
     <a href="https://linkedin.com/in/www.linkedin.com/in/shoaibayub" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-    <a href="https://fb.com/shoaib ayub" target="_blank"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-    <a href="https://instagram.com/shoaibayub.0311" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
     <a href="https://www.leetcode.com/shoaibayub0320" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FAAB00?style=flat&logo=LeetCode&logoColor=white"/></a>
 </div>
 
