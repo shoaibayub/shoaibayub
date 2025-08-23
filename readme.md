@@ -22,7 +22,7 @@
 ### Frameworks  
 <a href="https://github.com/shoaibayub">
 <div align="center">  
-       <img src="https://skillicons.dev/icons?i=flask,django,fastapi,pytorch,.net,tensorflow&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=flask,django,fastapi,pytorch,dotnet,tensorflow&perline=4" /> 
 </div>
 </a>
 
