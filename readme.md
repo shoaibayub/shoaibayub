@@ -13,7 +13,7 @@
 ### Languages
 <a href="https://github.com/shoaibayub">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=cpp,js,python,C#&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=cpp,python,cs&perline=4" /> 
 </div>
 </a>
 
@@ -22,7 +22,7 @@
 ### Frameworks  
 <a href="https://github.com/shoaibayub">
 <div align="center">  
-       <img src="https://skillicons.dev/icons?i=flask,django,fastapi,pytorch&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=flask,django,fastapi,pytorch,.net,tensorflow&perline=4" /> 
 </div>
 </a>
 
@@ -33,7 +33,7 @@
 ### Tools
 <a href="https://github.com/shoaibayub">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,vercel,docker,cursor,linux,mongodb&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,vercel,docker,linux,mongodb&perline=4" /> 
 </div>
 </a>
 </td>
