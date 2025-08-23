@@ -24,13 +24,7 @@
 <h3 align="center">A passionate Computer Scientist from Pakistan</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shoaibayub&label=Profile%20views&color=0e75b6&style=flat" alt="shoaibayub" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shoaibayub" alt="shoaibayub" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/@shoaibhashmicr7" target="blank"><img src="https://img.shields.io/twitter/follow/@shoaibhashmicr7?logo=twitter&style=for-the-badge" alt="@shoaibhashmicr7" /></a> </p>
-
-- 🔭 I’m currently learning **Python**
-
-- 🌱 I’m currently learning **Data Analysis**
+- 🔭 I’m currently learning **AI**
 
 - 📫 How to reach me **www.linkedin.com/in/shoaibayub**
 
